@@ -1,0 +1,53 @@
+﻿@model MVCCRUD2.Models.Administrador
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Administrador</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Apellido" class="control-label"></label>
+        <input asp-for="Apellido" class="form-control" required/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Nombre" class="control-label"></label>
+        <input asp-for="Nombre" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Cel" class="control-label">Celular</label>
+        <input asp-for="Cel" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Direcc" class="control-label">Dirección</label>
+        <input asp-for="Direcc" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Contrasenia" class="control-label">Contraseña</label>
+        <input asp-for="Contrasenia" type="password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Rol" class="control-label"></label>
+        <input asp-for="Rol" class="form-control" autocomplete="on" value="Administrador" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Cdl" class="control-label">Cédula</label>
+        <input asp-for="Cdl" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary" />
+    </div>
+</form>
+<br />
+<div class="botonVolver">
+    <a asp-action="Index" value="Volver" class="btn btn-primary">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

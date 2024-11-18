@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nahom\\source\\repos\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj": {}
+    "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nahom\\source\\repos\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj": {
+    "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nahom\\source\\repos\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj",
         "projectName": "MVCCRUD",
-        "projectPath": "C:\\Users\\nahom\\source\\repos\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj",
+        "projectPath": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD\\MVCCRUD\\MVCCRUD\\MVCCRUD.csproj",
         "packagesPath": "C:\\Users\\nahom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nahom\\source\\repos\\MVCCRUD\\MVCCRUD\\obj\\",
+        "outputPath": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD\\MVCCRUD\\MVCCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\others\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\others\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\models\\mvccrud2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\models\\mvccrud2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\others\\notas.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\others\\notas.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\mvccrud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\mvccrud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\administrador\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\administrador\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\administrador\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\administrador\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|c:\\users\\nahom\\source\\reposgit\\mvccrud2\\mvccrud2\\views\\administrador\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AACE41-7B5D-456D-B6A2-4C2A46CEE70D}|MVCCRUD2\\MVCCRUD2.csproj|solutionrelative:mvccrud2\\views\\administrador\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "notas.txt",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Others\\notas.txt",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Others\\notas.txt",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Others\\notas.txt",
+              "RelativeToolTip": "MVCCRUD2\\Others\\notas.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T22:11:23.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MVCCRUD2.csproj",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\MVCCRUD2.csproj",
+              "RelativeDocumentMoniker": "MVCCRUD2\\MVCCRUD2.csproj",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\MVCCRUD2.csproj",
+              "RelativeToolTip": "MVCCRUD2\\MVCCRUD2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T22:10:43.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "MVCCRUD2\\Controllers\\AdministradorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:08:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mvccrud2Context.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Models\\Mvccrud2Context.cs",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Models\\Mvccrud2Context.cs",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Models\\Mvccrud2Context.cs",
+              "RelativeToolTip": "MVCCRUD2\\Models\\Mvccrud2Context.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:02:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "MVCCRUD2\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:59:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MVCCRUD2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:54:11.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Personas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:46:21.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:46:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prueba.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Others\\prueba.cs",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Others\\prueba.cs",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Others\\prueba.cs",
+              "RelativeToolTip": "MVCCRUD2\\Others\\prueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:46:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:44:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:44:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:43:53.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Administrador\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Edit.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Administrador\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:19:49.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Administrador\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Details.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Administrador\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:19:27.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD2\\Views\\Administrador\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nahom\\source\\reposgit\\MVCCRUD2\\MVCCRUD2\\Views\\Administrador\\Delete.cshtml",
+              "RelativeToolTip": "MVCCRUD2\\Views\\Administrador\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:19:02.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MVCCRUD2.Models.Administrador>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Usuario</a>
+</p>
+
+<h1>Administradores</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Apellido)</th>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Cdl)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var administrador in Model)
+        {
+            <tr>
+                <td>@administrador.Apellido</td>
+                <td>@administrador.Nombre</td>
+                <td>@administrador.Cdl</td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@administrador.IdPersona">Editar</a> |
+                    <a asp-action="Details" class="btn btn-primary" asp-route-id="@administrador.IdPersona">Detalles</a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@administrador.IdPersona">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

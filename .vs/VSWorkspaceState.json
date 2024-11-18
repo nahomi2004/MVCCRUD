@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCCRUD",
+    "\\MVCCRUD\\MVCCRUD",
+    "\\MVCCRUD\\MVCCRUD\\Models",
+    "\\MVCCRUD\\MVCCRUD\\Views",
+    "\\MVCCRUD\\MVCCRUD\\Views\\Shared",
+    "\\MVCCRUD\\MVCCRUD\\wwwroot",
+    "\\MVCCRUD\\MVCCRUD\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

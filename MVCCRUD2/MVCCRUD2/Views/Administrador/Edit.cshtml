@@ -1,0 +1,37 @@
+﻿@model MVCCRUD2.Models.Administrador
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar Administrador</h1>
+
+<h4>Administrador</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdPersona" />
+            <div class="form-group">
+                <label asp-for="Cdl" class="control-label"></label>
+                <input asp-for="Cdl" class="form-control" />
+                <span asp-validation-for="Cdl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+            <div class="form-group">
+                <input type="reset" value="Cancelar" class="btn btn-danger" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div class="botonVolver">
+    <a asp-action="Index" class="btn btn-primary">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,10 @@
+PMC comandos
+
+cd C:/Users/nahom/source/reposgit/MVCCRUD2/MVCCRUD2
+dotnet ef migrations add InitialCreate 
+dotnet ef database update
+dotnet ef migrations add UpdatePersonaInheritance
+
+services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
+           .LogTo(Console.WriteLine, LogLevel.Information));
